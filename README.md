@@ -11,7 +11,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=SebastianCordiano&theme=dark&no-frame=false&no-bg=false&margin-w=4&color=ffffff)
 
 # 📊 GitHub Stats:
-[![See it](https://img.shields.io/badge/See_it-%237289DA.svg?style=for-the-badge&logo=github&logoColor=white)](#js-contribution-activity-description)<br/>
+[![See it](https://img.shields.io/badge/See_it-%237289DA.svg?style=for-the-badge&logo=github&logoColor=white)](#js-contribution-activity-description)<br/> *(Most commits are made in private repos)*
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SebastianCordiano&icon=2&color=4)](https://visitcount.itsvg.in)
